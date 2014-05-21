@@ -1,0 +1,132 @@
+article{
+    padding-left:5em;
+    width:80%;
+
+ 
+}
+
+body{
+ background:url("../img/bg.png"); 
+  width:100%;
+  margin-left: 4em;
+} 
+
+
+h1{
+  
+  text-align: center;
+  margin-left: 4em;
+  color: #042658;
+}
+h1,h2,h3,ul,li,nav{
+  color:#042658;
+
+}
+
+section div{
+  height:;
+}
+
+header{
+  background: white;
+  width:80%;
+  margin-left: 4em;
+}
+
+img{
+  width:100%;
+}
+
+
+nav li{
+  display:inline-block;
+  font-size: 2em;
+  padding:.2em;
+  margin:0 auto; 
+}
+
+a:active:, a:visited{
+  background: blue;
+}
+
+a:hover{
+  background: lightgray;
+}
+  
+    
+
+
+a{
+  color:gray;
+  text-decoration: none;
+  
+}
+
+
+
+section{
+  display: block;
+  float: right;
+  height:30em;
+}
+
+div{
+  border-top:.1em solid darkgray;
+}
+
+a[href$=".pdf]:before{
+  background-image: url("img/pdficon.png");
+}
+
+
+
+.designt{
+  
+  margin-bottom:0em;
+}
+
+.designm{
+  
+  margin-bottom:0em;
+}
+
+.designb{
+  
+  margin-bottom:0em;
+ 
+}
+
+.left{
+  position: top;
+  height:100%;
+  width:30%;
+  margin:.5em;
+  display:block;
+}
+
+.center{
+  position: top;
+  height:100%;
+  width:30%;
+  margin:.5em;
+  display:block;
+}
+
+.right{
+  float:right;
+  position: top;
+  height:100%;
+  width:30%;
+  margin:.5em;
+  display:block;
+ 
+}
+
+.writing{
+  height:50%;
+}
+
+
+
+
+
