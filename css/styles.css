@@ -1,7 +1,8 @@
 article{
-    padding-left:5em;
-    width:80%;
+    
+    width:90%;
     height:30em;
+    float:left;
 }
 
 body{
@@ -17,7 +18,7 @@ h1{
   margin-left: 4em;
   color: #042658;
 }
-h1,h2,h3,ul,li,nav{
+h1,h2,h3,ul,li{
   color:#042658;
 
 }
@@ -73,11 +74,42 @@ div{
   border-top:.1em solid darkgray;
 }
 
-a[href$=".pdf]:before{
+a[href$=".pdf]{
   background-image: url("img/pdficon.png");
 }
 
+.bio{
+  width: 30%; 
+  margin: 1em;
+  padding: .5em;
+  background: white;
+  display: block;
+}
 
+.education{
+  width: 30%;
+  margin: 1em;
+  padding: .5em;
+  background: white;
+  display: block;
+
+}
+
+.skills{
+   width: 20%;
+  margin: 1em;
+  padding: .5em;
+  background: white;
+  display: block;
+
+
+}
+
+
+.index{
+  display:block;
+  width: 100%;
+}
 
 .designt{
   
