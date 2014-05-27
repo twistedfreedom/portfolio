@@ -113,17 +113,17 @@ a[href$=".pdf]{
 
 .designt{
   
-  margin-bottom:0em;
+  margin-bottom:2em;
 }
 
 .designm{
   
-  margin-bottom:0em;
+  margin-bottom:2em;
 }
 
 .designb{
   margin-top:5em;
-  margin-bottom:0em;
+  margin-bottom:2em;
  
 }
 
@@ -156,6 +156,8 @@ a[href$=".pdf]{
 .writing{
   height:50%;
 }
+
+
 
 
 
